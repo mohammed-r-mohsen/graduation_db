@@ -3,7 +3,7 @@
 3. fav list 
 4. clinic 
 5. department
-
+6.Governorate
 
 
 
@@ -60,9 +60,22 @@
    id
    name
    number of doctor
-   Governorate 
+   Governorate_id 
    communication
    created_at
    update_at
    delted_at
-   
+
+
+
+6.Governorate
+
+  id
+  name
+  created_at
+  update_at
+  delted_at
+
+
+
+ 
