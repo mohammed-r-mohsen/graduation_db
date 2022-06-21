@@ -76,4 +76,32 @@
   update_at
   delted_at
  
+this is the first soluatin about the doctor retrive 
+7. doctor booking 
+
+id 
+doctorid
+clinnicid 
+Period
+created_at
+update_at
+delted_at
+
+
+
+the second soluation is make another able about the day and time 
+and table about the department 
+
+table 
+
+sat mon wed 1 0 
+sun thu thu 1 0 
+cusmize 1
+
+
+another table 
+
+6 day 
+
+
 
