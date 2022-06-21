@@ -1,0 +1,68 @@
+1. doctor
+2. waiting patiant 
+3. fav list 
+4. clinic 
+5. department
+
+
+
+
+1. doctor 
+
+  the table that make the doctor login and use the system 
+
+  column : 
+  
+  id 
+  username
+  email 
+  department_id : 
+  password : hash password
+  created_at : the date of create the row 
+  delted_at : soft delete 
+  update_at : time that the user update his information 
+  cv_link : link of review the cv 
+  Evaluation : out of five stars
+  
+
+2. waiting patiantt 
+
+   column : 
+   id 
+   patiant_id
+   booking time
+   created_at
+   delted_at
+   update_at
+
+3. fav patiint
+
+   column : 
+   id 
+   patiant_id 
+   created_at
+   update_at
+   delted_at
+
+4. department 
+
+   column : 
+   id 
+   name
+   number of doctor
+   created_at
+   delted_at
+   update_at
+
+5.clinic 
+
+   column 
+   id
+   name
+   number of doctor
+   Governorate 
+   communication
+   created_at
+   update_at
+   delted_at
+   
