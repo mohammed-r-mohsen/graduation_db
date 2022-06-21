@@ -83,6 +83,7 @@ id
 doctorid
 clinnicid 
 Period
+day_type : sat or sun // important to include in the table this is the soluatiion 2 in the system 
 created_at
 update_at
 delted_at
