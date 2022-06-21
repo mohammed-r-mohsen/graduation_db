@@ -1,0 +1,34 @@
+1.chronic diseases
+2.Allergy
+3.previous operations
+
+
+1.chronic diseases
+
+id 
+diseases name 
+patiant_id
+created_at
+update_at
+delted_at
+
+
+2.Allergy
+id
+Allergy name
+patiant_id
+created_at
+update_at
+delted_at
+
+
+3. previous operations
+id  
+operations name
+doctor name or id 
+date
+created_at
+update_at
+delted_at
+
+
