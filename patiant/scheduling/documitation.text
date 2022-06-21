@@ -1,0 +1,39 @@
+الجدولة بشكل عام تعتمد على انظمة توزيع الدواء 
+من حيث ان نظام توزيع الدواء يكون نظامين بشكل اساسي يومي واسبوعي 
+و النظام اليومي ينقسم الى 6 او 7 انظمة داخله لذا فان هذه العملية تخفف من شغط الداتابيز وتعمل على تسريع 
+عملية جلب البيانات 
+بالاضافة الى ان التاخر الذي يحتاج الى خوارزميات يحل  عن طريق الداتابيز 
+
+1. day scheduling 
+2. week scheduling
+
+24 - 12 - 8 - 6 - 4 - 3
+
+1. 
+id 
+patiant_id
+24
+12
+8
+6
+4
+3
+created_at 
+update_at
+delted_at
+
+2.
+
+id 
+patiant_id
+Saturday
+sunday
+monday
+Tuesday
+Wednesday
+Thursday
+friday
+created_at
+update_at
+delted_at
+
