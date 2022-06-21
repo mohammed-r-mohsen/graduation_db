@@ -1,0 +1,35 @@
+1. admin table :
+
+ It is the table through which the admin can enter the system 
+ + determines the importance of each admin within the system
+
+  column :
+  1-id : identity of the admin  
+  2-username : username the admin can login by use it 
+  3-email : personal email of the adminn the admin can use to send the email and recive it 
+  4-password : must be hash in the system to make the sstem more secure 
+  5-power_id : forgien key from the power table 
+  6-crreated_at : the date that created this row in the table 
+  7-remeber_token : its for site to save the cookies and also maby for the mobile 
+  8-deleted_at : for soft delete if nessicery 
+  9- updated_at : the date that the row update 
+
+
+2- permmision : 
+
+A table that determines the importance and degree of strength of an addict's fatigue within the system,
+ so that the addict can do anything within the system, but their degrees differ
+    
+    the power levels : 
+    the power levels is in the 1.png in the admin_perrmision 
+
+    column : 
+    id : identity
+    name : name of level 
+    describe : describe this level of power
+    level : number of this level
+    ceated_at : 
+    remeber_token :
+    deleted_at : 
+    updated_at : 
+this db is for the site 
